@@ -189,6 +189,7 @@
 		background-size: cover !important;
 		background: #348cb2 url("images/bg.png") bottom left;
 		background-repeat: repeat-x;
+        background-position: center;
 		height: 100vh;
 		left: 0;
 		opacity: 1;
